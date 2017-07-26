@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/ic_nav_home"
+        android:title="Home"
+        android:checked="true"
+        />
+    <item
+        android:id="@+id/nav_account"
+        android:icon="@drawable/ic_nav_account"
+        android:title="Your Account"
+        android:checked="true"
+        />
+    <item
+        android:id="@+id/nav_wish_list"
+        android:icon="@drawable/ic_wish_list"
+        android:title="Wish List"
+        android:checked="true"
+        />
+    <item
+        android:id="@+id/nav_orders"
+        android:icon="@drawable/ic_nav_orders"
+        android:title="Orders"
+        android:checked="true"
+        />
+    <item
+        android:id="@+id/nav_track_orders"
+        android:icon="@drawable/ic_nav_track_order"
+        android:title="Track my order"
+        android:checked="true"
+        />
+    <item
+        android:id="@+id/nav_shop_cat"
+        android:icon="@drawable/ic_nav_shop_cat"
+        android:title="Shop by Categories"
+        android:checked="true"
+        />
+    <item
+        android:id="@+id/nav_ewallet"
+        android:icon="@drawable/ic_nav_e_wallet"
+        android:title="eWallet"
+        android:checked="true"
+        />
+    <item
+        android:id="@+id/nav_customer_service"
+        android:checked="true"
+        android:icon="@drawable/ic_nav_customer_service"
+        android:title="Customer service" />
+
+    <item
+        android:id="@+id/nav_login"
+        android:checked="true"
+        android:icon="@drawable/ic_logout"
+        android:title="Login" />
+</menu>

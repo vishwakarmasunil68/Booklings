@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "636296899075",
+    "firebase_url": "https://booklings-1493645550843.firebaseio.com",
+    "project_id": "booklings-1493645550843",
+    "storage_bucket": "booklings-1493645550843.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:636296899075:android:9115f2cf3f9ad9ff",
+        "android_client_info": {
+          "package_name": "com.emobi.bjain"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "636296899075-5c3au7efv3scauf0agq9sceqd0rh9tqf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.emobi.bjain",
+            "certificate_hash": "728aad18cc8dd9985b09a679fb5c0c0b81a1ccc6"
+          }
+        },
+        {
+          "client_id": "636296899075-ggdbijt1fv28lpvrp03m6891cmtumros.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDr6SlP_UH6E5XuC4O3FCAmLFTJ77PeFe4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "636296899075-ggdbijt1fv28lpvrp03m6891cmtumros.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
